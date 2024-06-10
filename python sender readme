@@ -1,0 +1,19 @@
+Send Emails with Python Script
+This script lets you send emails to multiple recipients from your Gmail account.
+
+Requirements:
+
+Python 3
+smtplib library (usually pre-installed)
+Internet access
+Instructions:
+
+Create a text file named recipients.txt listing recipient emails.
+Save the code as email_sender.py.
+Run: python email_sender.py
+Prompts:
+
+Enter your email address.
+Enter your email password (hidden).
+Enter email subject.
+Enter email message.
